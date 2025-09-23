@@ -1,4 +1,12 @@
+# 30 Days, 30 Free APIs Challenge 🚀
 
+Welcome to the **30 Days, 30 Free APIs Challenge**! This repository is a curated collection of **completely free APIs** for students, hobbyists, and developers. Over 30 days, each API is explored with **purpose, Python & JavaScript code snippets, output examples, cost-saving comparisons, and PDF/Markdown guides** — perfect for building mini-projects and a GitHub portfolio.  
+
+---
+
+## 📌 What This Repository Contains
+
+Each API has its **own folder**, named by day and API name:
 For each API, you’ll find:  
 - **Purpose of the API** – what it does and why it’s useful  
 - **Step-by-step guide** – how to get started (API keys if required)  
